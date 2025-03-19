@@ -8,7 +8,7 @@ craftman, Vita/yuyudev
 craftmanw, Vita/yuyudev
 craftmanurl, https://thatoddhaystack.neocities.org/ukagaka/
 
-homeurl,
+homeurl,https://raw.githubusercontent.com/yuyudev-thatoddhaystack/melonlime_soda_yy/main/
 
 menu.background.font.color.r,255
 menu.background.font.color.g,95
