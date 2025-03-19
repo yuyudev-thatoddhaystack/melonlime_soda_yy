@@ -1,0 +1,5 @@
+Charset,UTF-8
+type,shell
+name,Melon-Lime Soda
+directory,melonlime_soda_yy
+accept,Hydrate
